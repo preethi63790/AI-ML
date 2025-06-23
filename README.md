@@ -6,6 +6,7 @@ data preprocessing:
 - Applies **feature scaling** using `MinMaxScaler` (values between 0 and 1)
 - Shows **boxplots** to detect outliers
 - Removes outliers using the **IQR method**
+
 required:
 Python 3.x
 - pandas
