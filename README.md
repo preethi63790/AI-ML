@@ -12,7 +12,7 @@ To finish these tasks, I used a step-by-step method that included several import
 
 required:
 
--Python 3.x
+ Python 3.x
 - pandas
 - numpy
 - matplotlib
