@@ -21,6 +21,10 @@ required:
 - seaborn
 - scikit-learn
 
+  On mt secod day of ,i was asssigned to a task on (EDA)exploratory data analysis
+
+
+  The following are the steps i followed to complete the given task
   TASK 2:EXPLORATORY DATA ANALYSIS:
 
 
