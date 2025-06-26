@@ -49,5 +49,41 @@ required:
   - matplotlib
   - seaborn
  
+   on the 3rd day ,
+
+   TASK 3:LINEAR REGRESSION
+
+  Loads and preprocesses a dataset (.csv file).
+
+Splits data into training and testing sets.
+
+Trains a Linear Regression model on the training data.
+
+Evaluates the model using:
+
+MAE (Mean Absolute Error)
+
+MSE (Mean Squared Error)
+
+R² Score (Coefficient of Determination)
+
+Visualizes the regression line over the data points.
+
+Prints the model’s intercept and coefficients.
+
+required :
+
+Python 3.7+
+
+pandas
+
+numpy
+
+matplotlib
+
+seaborn
+
+scikit-learn
+ 
 
   
